@@ -13,6 +13,8 @@
 		AE8A5C74196F3D3700144B69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE8A5C72196F3D3700144B69 /* Main.storyboard */; };
 		AE8A5C76196F3D3700144B69 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE8A5C75196F3D3700144B69 /* Images.xcassets */; };
 		AE8A5C82196F3D3700144B69 /* sandboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8A5C81196F3D3700144B69 /* sandboxTests.swift */; };
+		AE8A5C8C196F3D8C00144B69 /* SimpleTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8A5C8B196F3D8C00144B69 /* SimpleTableViewController.swift */; };
+		AE8A5C8E196F3DD100144B69 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8A5C8D196F3DD100144B69 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		AE8A5C7B196F3D3700144B69 /* sandboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sandboxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE8A5C80196F3D3700144B69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE8A5C81196F3D3700144B69 /* sandboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sandboxTests.swift; sourceTree = "<group>"; };
+		AE8A5C8B196F3D8C00144B69 /* SimpleTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleTableViewController.swift; sourceTree = "<group>"; };
+		AE8A5C8D196F3DD100144B69 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				AE8A5C72196F3D3700144B69 /* Main.storyboard */,
 				AE8A5C75196F3D3700144B69 /* Images.xcassets */,
 				AE8A5C6A196F3D3700144B69 /* Supporting Files */,
+				AE8A5C8B196F3D8C00144B69 /* SimpleTableViewController.swift */,
+				AE8A5C8D196F3DD100144B69 /* MapViewController.swift */,
 			);
 			path = sandbox;
 			sourceTree = "<group>";
@@ -214,6 +220,8 @@
 				AE8A5C71196F3D3700144B69 /* SecondViewController.swift in Sources */,
 				AE8A5C6D196F3D3700144B69 /* AppDelegate.swift in Sources */,
 				AE8A5C6F196F3D3700144B69 /* FirstViewController.swift in Sources */,
+				AE8A5C8E196F3DD100144B69 /* MapViewController.swift in Sources */,
+				AE8A5C8C196F3D8C00144B69 /* SimpleTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
